@@ -49,10 +49,10 @@ In 2016, according to a trends analysis based on this report by the Royal Societ
  2. Sentences with high information density will have high scores.
 5. Put the sentences with the highest scores together in chronological order to produce the summary.
 
-## Tools
+# Tools
 While each module serves a function and contributes to the overall algorithm, they are also designed to work independently to serve their own particular function by themselves. For example, “extractor.py” is used by the Summarizer to extract sentences and words from text, but it can also be used independently to see exactly what it extracts. This is useful for debugging as it allows one to test each individual component separately.
 
-### extractor.py
+## extractor.py
 This is used to extract sentences and words from text. It can be used to check if the sentences are being divided up correctly. It can also provide info about the text such as the sentence and word count.
 
 ```
