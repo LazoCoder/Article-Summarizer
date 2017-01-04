@@ -1,0 +1,51 @@
+To die-hard fans, Apple Inc.'s Macintosh sometimes seems like an afterthought these days.
+
+Mac upgrades, once a frequent ritual, are few and far between. The Mac Pro, Apple's marquee computer, hasn't been refreshed since 2013. The affordable and flexible Mac mini was last upgraded in 2014. And when a new machine does roll out, the results are sometimes underwhelming, if not infuriating, to devotees.
+
+In October, after more than 500 days without an update, Apple unveiled the new MacBook Pro with a slimmer design and louder speakers. The laptop garnered mostly favorable reviews from the technology press but grumbles from creative types, a key constituency, who said the device under-performed rival products.
+
+Interviews with people familiar with Apple's inner workings reveal that the Mac is getting far less attention than it once did. They say the Mac team has lost clout with the famed industrial design group led by Jony Ive and the company's software team. They also describe a lack of clear direction from senior management, departures of key people working on Mac hardware and technical challenges that have delayed the roll-out of new computers.
+
+While the Mac generates about 10 percent of Apple sales, the company can't afford to alienate professional designers and other business customers. After all, they helped fuel Apple's revival in the late 1990s. In a stinging critique, Peter Kirn, founder of a website for music and video creators, wrote: "This is a company with no real vision for what its most creative users actually do with their most advanced machines."
+
+If more Mac users switch, the Apple ecosystem will become less sticky—opening the door to people abandoning higher-value products like the iPhone and iPad.  
+
+People now have more options. Microsoft Corp., once derided by Mac loyalists for its clunky, buggy software, offers Windows 10, which provides the tablet type functionality Apple pioneered with the iPad. Microsoft's Surface computers offer Apple-esque quality and a well-reviewed creative paint program aimed at the Mac's audience. Sensing an opportunity, Microsoft called the MacBook Pro a "disappointment" and said more users than ever were switching to its Surface laptops.  
+
+An Apple spokesman declined to comment. However, the company has said the Macintosh remains one of its most important products and denies it takes a back seat to other gadgets. 
+
+Four years ago at Apple's annual developer conference, marketing chief Phil Schiller pledged to keep the computer front and center in the company's product arsenal. "Nobody turns over their entire line as quickly and completely as we do at Apple," Schiller said. "We’re really proud of the engineering team and the work they do to do this quick so you can get the exact product you need." Two years later, the company held a 30th birthday party for the Macintosh, a splashy event that featured a OneRepublic concert at Apple's Cupertino, California headquarters. The company also created a website celebrating the Mac's history.
+
+To be fair, Apple depends on Intel Corp., which still makes key chips for Macs. Like the rest of the PC industry, Apple's innovation and product cycles are sometimes constrained by when Intel produces new chips—a process that's getting more difficult.
+
+Making a laptop stand out is also harder these days. But when Apple has tried to leapfrog the competition, it has fallen short. Take the company's attempt to create a longer-lasting battery for the MacBook Pro. Apple engineers wanted to use higher capacity battery packs shaped to the insides of the laptop versus the standard square cells found in most machines. The design would have boosted battery life. 
+
+In the run-up to the MacBook Pro's planned debut this year, the new battery failed a key test, according to a person familiar with the situation. Rather than delay the launch and risk missing the crucial holiday shopping season, Apple decided to revert to an older design. The change required roping in engineers from other teams to finish the job, meaning work on other Macs languished, the person said. The new laptop didn't represent a game-changing leap in battery performance, and a software bug misrepresented hours of power remaining. Apple has since removed the meter from the top right-hand corner of the screen. 
+
+In the Mac's heyday, people working on new models could expect a lot of attention from Ive's team. Once a week his people would meet with Mac engineers to discuss ongoing projects. Mac engineers brought prototypes to Ive's studio for review, while his lieutenants would visit the Mac labs to look at early concepts. Those visits have become less frequent since the company began focusing more on more-valuable products like the iPhone and iPad, and the change became even more obvious after the design team's leadership was shuffled last year, according to a person familiar with the situation.
+
+In another sign that the company has prioritized the iPhone, Apple re-organized its software engineering department so there's no longer a dedicated Mac operating system team. There is now just one team, and most of the engineers are iOS first, giving the people working on the iPhone and iPad more power. 
+
+That's part of a broader shift toward making Macs more like iPhones. Apple prioritizes features, like thinness and minimal ports, that sell its iPhones and iPads, which generated about 75 percent of revenue this year. Those are contrary to professional needs, like maximum computing power. Early prototypes of the 12-inch MacBook used the iPhone's Lightning connector, although this was ditched for a more standard USB-C port. There was even a gold MacBook Pro planned, but this was shelved because the color didn’t look good on such a large product. 
+
+In recent years, Apple managers have also become more likely to float two or more competing ideas, meaning designers and engineers must work on more than one concept at a time. In the past, managers pushed a more singular vision. Engineers are now "asked to develop multiple options in hopes that one of them will be shippable," a person familiar with the matter said. 
+
+When the company was developing the first 12-inch MacBook, Apple tested two primary prototypes. One, known internally as Stealth Fighter, was lighter. The second, a slightly less ambitious design known as Stealth Bomber, was heavier. The lighter model prevailed, but with engineers developing and testing two competing concepts, they had less time to figure out how to cram all the electronics into a thin slab of aluminum that would hold together. In the end, Apple shipped the laptop in 2015, months after its 2014 goal.
+
+For a 2016 MacBook update, some Apple engineers wanted to add a Touch ID fingerprint scanner and a second USB-C port (which would have made some power users happy). The update instead included a new rose gold color option alongside a standard speed increase.
+
+The internal turmoil has taken a toll. More than a dozen engineers and managers working on Mac hardware have left for different Apple teams or other companies in the past year and a half, said people familiar with the situation. Some were looking for a less all-consuming work environment, while others felt the future of Mac hardware was unclear in a world of iPhones and iPads. 
+
+In 2013, Apple launched a redesigned Mac Pro, a black cylinder with bright white LED lights. It was a powerful desktop machine created partly to cast a halo over the entire Macintosh lineup. The Mac Pro was also the first Apple computer in years to be assembled in the U.S. Under pressure from politicians to create manufacturing jobs at home, Apple was looking to score political points. The decision caused production headaches though. 
+
+The Mac Pro's glossy exterior and chrome beveled edges meant Apple had to make its own manufacturing tools and then train people to run those machines in an assembly plant. This slowed production and constrained Apple's ability to make enough computers to meet demand.
+
+Three years on, the Mac Pro is ripe for an upgrade with its chips and connector ports lagging rival products. Because of the earlier challenges, some Apple engineers have raised the possibility of moving production back to Asia, where it's cheaper and manufacturers have the required skills for ambitious products, according to a person familiar with those internal discussions.
+
+The political environment is tougher for such a move now. During his campaign, President-elect Donald Trump hammered Apple for building most of its products overseas and since his election he has pushed other companies to keep some jobs in the U.S. 
+
+Still, Apple hasn't given up on Macs. In a recent company Q&A session, employees asked whether Mac desktop computers remain strategically important. "We have great desktops in our roadmap. Nobody should worry about that," Chief Executive Officer Tim Cook said, according to a transcript of the discussion obtained by Bloomberg News. 
+
+The latest MacBook Pro has a "Touch Bar," a thin touchscreen built into the keyboard that lets users quickly access app shortcuts, change system settings, and pick emojis. The laptop also has Touch ID to speed up online purchases and a giant trackpad for easier gesture control. Apple designers are already exploring standalone keyboards with the touch strip and a fingerprint reader for desktops. Apple will decide whether to release these based on how well the features do on the MacBook Pro.
+
+Mac fans shouldn't hold their breath for radical new designs in 2017 though. Instead, the company is preparing modest updates: USB-C ports and a new Advanced Micro Devices Inc. graphics processor for the iMac, and minor bumps in processing power for the 12-inch MacBook and MacBook Pro. Cue the outrage.
