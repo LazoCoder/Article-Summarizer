@@ -1,18 +1,18 @@
 # Article-Summarizer
-Uses frequency analysis to assign scores to sentences. Sentences that are rich with relevant words will have higher scores. The highest scoring sentences are then printed in chronological order to produce a summary.
+Uses frequency analysis to summarize text. Scores are assigned to sentences and sentences that are rich with relevant words will have higher scores. The highest scoring sentences are then printed in chronological order to produce a summary.
 
 ## Sample Summaries
 
 The following are all summaries of articles. If any of the links are dead, the content of each article can be found in the folder "sample_articles". These articles are all randomly selected and do not represent my opinions, views or what news websites I follow.
 
-### [How Apple Alienated Mac Loyalists](https://www.bloomberg.com/news/articles/2016-12-20/how-apple-alienated-mac-loyalists)
-Interviews with people familiar with Apple's inner workings reveal that the Mac is getting far less attention than it once did. People now have more options. There is now just one team, and most of the engineers are iOS first, giving the people working on the iPhone and iPad more power. In recent years, Apple managers have also become more likely to float two or more competing ideas, meaning designers and engineers must work on more than one concept at a time.
+### Article: [How Apple Alienated Mac Loyalists](https://www.bloomberg.com/news/articles/2016-12-20/how-apple-alienated-mac-loyalists)
+**Generated Summary:** Interviews with people familiar with Apple's inner workings reveal that the Mac is getting far less attention than it once did. People now have more options. There is now just one team, and most of the engineers are iOS first, giving the people working on the iPhone and iPad more power. In recent years, Apple managers have also become more likely to float two or more competing ideas, meaning designers and engineers must work on more than one concept at a time.
 
-### [Inside the Eye](http://ngm.nationalgeographic.com/2016/02/evolution-of-eyes-text)
-There are eyes with bifocal lenses, eyes with mirrors, and eyes that look up, down, and sideways all at the same time. Cup-shaped eyes with more receptors or compound eyes with additional cups can produce crude images of objects. This explains why animals don’t have eyes that are better than they need and why they lose eyes so readily if they no longer need them. Ultimately, to understand why they are the way they are, we need to know how they are used.
+### Article: [Inside the Eye](http://ngm.nationalgeographic.com/2016/02/evolution-of-eyes-text)
+**Generated Summary:** There are eyes with bifocal lenses, eyes with mirrors, and eyes that look up, down, and sideways all at the same time. Cup-shaped eyes with more receptors or compound eyes with additional cups can produce crude images of objects. This explains why animals don’t have eyes that are better than they need and why they lose eyes so readily if they no longer need them. Ultimately, to understand why they are the way they are, we need to know how they are used.
 
-### [Solar Now Produces a Better Energy Return on Investment Than Oil](https://robertscribbler.com/2016/12/19/solar-now-produces-a-better-energy-return-on-investment-than-oil/)
-In 2016, according to a trends analysis based on this report by the Royal Society of London, the energy return on energy investment (EROEI) for oil appears to have fallen below a ratio of 15 to 1 globally. Meanwhile, according to a new study by the Imperial College of London, solar energy’s return on investment ratio as of 2015 was 14 to 1 and rising. The higher energy returns for solar come as module efficiency, supply chain efficiency, and production and installation efficiency are all on the rise. Higher energy return on investment ratios for solar is one of the primary drivers enabling such low overall power prices.
+### Article: [Solar Now Produces a Better Energy Return on Investment Than Oil](https://robertscribbler.com/2016/12/19/solar-now-produces-a-better-energy-return-on-investment-than-oil/)
+**Generated Summary:** In 2016, according to a trends analysis based on this report by the Royal Society of London, the energy return on energy investment (EROEI) for oil appears to have fallen below a ratio of 15 to 1 globally. Meanwhile, according to a new study by the Imperial College of London, solar energy’s return on investment ratio as of 2015 was 14 to 1 and rising. The higher energy returns for solar come as module efficiency, supply chain efficiency, and production and installation efficiency are all on the rise. Higher energy return on investment ratios for solar is one of the primary drivers enabling such low overall power prices.
 
 ## Usage
 ```
