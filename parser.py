@@ -30,6 +30,8 @@ def group_quotes(sentences):
         sentence = sentences[i]
         while sentence.count("\"") % 2 == 1:
             skip += 1
+            if i+skip >= len(sentences):
+                break
             if sentences[i+skip][0].isalnum():
                 sentence += " " + sentences[i+skip]
             else:

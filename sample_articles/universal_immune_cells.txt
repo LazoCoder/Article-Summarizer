@@ -1,0 +1,31 @@
+Doctors in London say they have cured two babies of leukemia in the world’s first attempt to treat cancer with genetically engineered immune cells from a donor.
+
+The experiments, which took place at London’s Great Ormond Street Hospital, raise the possibility of off-the-shelf cellular therapy using inexpensive supplies of universal cells that could be dripped into patients' veins on a moment’s notice.
+
+The ready-made approach could pose a challenge to companies including Juno Therapeutics and Novartis, each of which has spent tens of millions of dollars pioneering treatments that require collecting a patient’s own blood cells, engineering them, and then re-infusing them.
+
+Both methods rely on engineering T cells—the hungry predator cells of the immune system—so they attack leukemic cells.
+
+The British infants, ages 11 and 16 months, each had leukemia and had undergone previous treatments that failed, according to a description of their cases published Wednesday in Science Translational Medicine. Waseem Qasim, a physician and gene-therapy expert who led the tests, reported that both children remain in remission.
+
+Although the cases drew wide media attention in Britain, some researchers said that because the London team also gave the children standard chemotherapy, they failed to show the cell treatment actually cured the kids. “There is a hint of efficacy but no proof,” says Stephan Grupp, director of cancer immunotherapy at the Children’s Hospital of Philadelphia, who collaborates with Novartis. “It would be great if it works, but that just hasn’t been shown yet.”
+
+Rights to the London treatment were sold to the biotech company Cellectis, and the treatment is now being further developed by the drug companies Servier and Pfizer.
+
+Treatments using engineered T-cells, commonly known as CAR-T, are new and not yet sold commercially. But they have shown stunning success against blood cancers. In studies so far by Novartis and Juno, about half of patients are permanently cured after receiving altered versions of their own blood cells.
+
+But commercializing such personalized treatments raises unprecedented logistical headaches. Grupp says Novartis has outfitted a manufacturing center in New Jersey and that patient cells have been flown in from 25 hospitals in 11 countries, modified, then quickly shipped back. Novartis has said it will seek U.S. approval to sell its T-cell treatment for children this year.
+
+The promise of immunotherapy has drawn huge investments, yet many newer entrants are betting instead on the off-the-shelf approach. Among them are biotech giant Regeneron, Kite Therapeutics, Fate Therapeutics, and Cell Medica.  
+
+“The patient could be treated immediately, as opposed to taking cells from a patient and manufacturing them,” says Julianne Smith, vice president of CAR-T development for Cellectis, which specializes in supplying universal cells.  
+
+In the off-the-shelf approach, blood is collected from a donor and then turned into “hundreds” of doses that can then be stored frozen, says Smith. “We estimate the cost to manufacture a dose would be about $4,000,” she says. That’s compared to a cost of around $50,000 to alter a patient’s cells and return them.
+
+Either type of treatment is likely to cost insurers half a million dollars or more if they reach the market.
+
+Robert Nelsen, a venture capitalist and a founder of Juno Therapeutics, which raised hundreds of millions for the custom approach, says he’s not worried about companies developing universal alternatives. “What they can do in the future is what we can do today,” Nelsen said in an interview last year. “And I guarantee you even if things were equal, which they are not, you would want your own stuff, not someone else’s cells.”
+
+The London treatment is notable for involving the most extensively engineered cells ever given to a patient, with a total of four genetic changes, two of them introduced by gene editing using a method called TALENs. One alteration was to strip the donor cells of their propensity to attack the body of another person. Another directs them to attack cancer cells.
+
+In the U.S. and China, scientists are also racing to apply gene editing to make improved treatments for cancer and other diseases.

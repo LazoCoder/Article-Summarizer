@@ -1,0 +1,43 @@
+Google has received tons of gushy press for its bubble-shaped self-driving car, though it's still years from the showroom floor. But for years John Deere has been selling tractors that practically drive themselves for use on farms in America's heartland, where there are few pesky pedestrians or federal rules to get in the way.
+
+For a glimpse at the future, meet Jason Poole, a 34-year-old crop consultant from Kansas. After a long day of meetings earlier this month and driving five hours across the state to watch his little girl's softball game, he was still able to run his John Deere tractor until 2 a.m. thanks to technology that left most of the driving up to a computer.
+
+The land is hilly on Poole's family farm, so he drives the first curved row manually to teach the layout to his tractor's guidance system and handles the turns himself. But after that, he takes his hands off the steering wheel and allows the tractor to finish.
+
+"We kind of laugh when we see news stories about self-driving cars, because we've had that for years," Poole said.
+
+And the advancements being rolled out on the farm could soon show up next door: Your neighbor can already replace his lawn mower with the John Deere equivalent of a Roomba robotic vacuum for his yard.
+
+The self-driving technology being sold by John Deere and some of its competitors are less technically complex than the fully driverless cars that big tech companies and car manufacturers are working on. And for now, the tractors are still supposed to have a driver behind the wheel - even if they never touch it.
+
+But they've already started to transform farming in America and abroad: John Deere is selling auto-steering and other self-guidance tech in more than 100 countries, said Cory Reed, vice president of the company's Intelligent Solutions Group.
+
+"John Deere is the largest operator of autonomous vehicles," said Catherine J.K. Sandoval, a California public utilities commissioner at a recent event hosted by the Federal Trade Commission.
+
+Some farmers aren't shy about their enthusiasm for the tech - even uploading videos showing it off online. One appears to show a tractor hauling a planter making a tightly choreographed turn without a driver in the cab. In another, the driver takes pictures, throws paper airplanes and balances a water bottle on his nose before appearing to nod off while the tractor keeps working his field.
+
+The systems come with their own risks, including concerns that they could be hacked. But because farm-equipment makers operate almost exclusively on private land, they've been able to bring products to market much quicker than consumer automakers - and without the same level of regulatory scrutiny.
+
+There are no federal rules specifically addressing self-driving tech for tractors, largely because farm equipment is designed for use in fields where it doesn't pose the same level of risk to other vehicles or people as a self-driving vehicle on a public road. The closest thing to national regulations are safety standards set by the Occupational Safety and Health Administration, but the agency does not have any rules directly aimed at self-driving technology.
+
+That lack of regulations is one reason that the future reached the farm first. But another is pure necessity: There's a labor crunch in rural America - young people move to the cities, leaving the average age of U.S. farmers at 58, according to the Department of Agriculture. Similar forces are pushing self-driving tech into other industrial sectors at a pace that outstrips the consumer market. Earlier this year, the first self-driving semi-truck licensed to drive on public roads in the United States made its debut in Nevada with a splashy press show. And self-driving trucks are already being rolled out for mining and oil operations in remote parts of the world.
+
+The success of self-driving tech in agriculture could serve as a guiding post for carmakers who are now trying to figure out how to move similar technologies onto U.S. streets.
+
+Tractor makers started exploring the possibility of putting software in the driver's seat decades ago. At first, they used satellite technology to help farmers plot courses that they could drive manually. About 15 years ago John Deere started using similar systems to guide the tractors automatically, Reed said.
+
+Crops are generally planted in one long row after another - and farmers want to make sure they use up all their land. Before auto-steering, that often meant a few feet would get reworked in every row. But with modern technology, that overlap can be reduced to less than an inch so it takes fewer passes to cover each field - saving farmers time and money.
+
+Tractor-buyers today can pile on modular systems that give computers more and more control over operations. You start with a basic satellite guidance system and a touchscreen interface, but from there the options are almost endless. Some add-ons let the tractor make very precise turns without the driver even touching the steering wheel. Others uses radio base-stations set up around fields to provide even more accurate navigation than satellites.
+
+And John Deere isn't the only company selling this kind of tech; its main competitor, Case IH, markets similar systems as do a slew of lesser-known companies. Some are going even further than modifying existing tractor designs: The aptly named Autonomous Tractor Corp. designed a fully autonomous tractor prototype that looks like a golden boxy tank, but without a seat for a driver.
+
+The systems are pricey: Outfitting a new tractor with top-of-the-line auto-steering, navigation and guidance tech could cost upwards of $20,000, Reed said. There are also activation and subscriptions fees if farmers want to use the company's satellite or radio signals.
+
+And there are risks to reliance on software. Poole said that one neighbor using self-driving technology downloaded a software update that disabled his tractor for a week in the middle of planting season this spring. If a system is working, farmers will often hold off on updates rather than risk complications, he said.
+
+Those gaps could raise added cybersecurity risks. John Deere takes this issue seriously, Reed said, and encrypts its systems to protect them from hackers.
+
+Still, issues like digital security fears, along with more traditional physical safety concerns, make it hard for consumer automakers to get their self-driving vehicles past various regulators and on to public roads. But tractor makers have shown that much of the technology needed to fulfill the promise of autonomous vehicles is already here.
+
+"All of the things we're doing on the farm will find their way into the consumer market in the coming years," Reed said.

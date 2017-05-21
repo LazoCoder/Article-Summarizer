@@ -1,0 +1,49 @@
+Watson, can you grow into a multibillion-dollar business and become the engine of IBM’s resurgence?
+
+IBM is betting its future that the answer is yes. Its campaign to commercialize Watson, the company’s version of artificial intelligence technology, stands out, even during the current A.I. frenzy in the tech industry.
+
+IBM has invested billions of dollars in its Watson business unit, created at the start of 2014, which now employs an estimated 10,000 workers. Its big-ticket marketing push includes clever television ads that feature Watson trading quips with famous people like Serena Williams and Bob Dylan. And Watson, after a slow start, has shown its mettle by assisting in daunting tasks like diagnosing cancer.
+
+Yet industry experts question how quickly IBM can build a business around Watson. “IBM has pursued big, bespoke moonshot initiatives that can take years and are extremely expensive,” said Tom Austin, a research fellow at Gartner. “It seems like they’re swimming upstream with that.”
+
+Adapting Watson technology to industries like health care and manufacturing, IBM insists, was always going to be a long-term commitment — and one that began shortly after Watson beat human champions on the quiz show “Jeopardy!” in 2011.
+
+But the years of investment and applied-science projects, IBM executives say, are increasingly turning into moneymaking opportunities in sizable markets.
+
+They point to a new Watson offering in genomics as a prime example of the company’s strategy. IBM is collaborating with Quest Diagnostics, the medical laboratory company, to offer gene sequencing and Watson diagnostic analysis, as a cloud service, to oncologists treating cancer patients, starting on Monday. The service will also tap the genomics data and expertise of the Memorial Sloan-Kettering Cancer Center and the Broad Institute.
+
+“This is the broad commercialization of Watson in oncology,” said John E. Kelly, a senior vice president who oversees IBM’s research labs and the Watson business.
+
+The technology, IBM executives say, has the potential to make precision medicine and tailored therapies available to millions of cancer patients instead of the small number now treated at elite medical centers with genomics expertise. An estimated 14 million Americans are living with cancer.
+
+The new genomics service, IBM executives say, is one step in the company’s march to build a so-called ecosystem of corporate partners and software developers that use Watson technology.
+
+For a programmer, Watson can provide code that allows a start-up’s software to read and interpret legal documents more easily, for example. For a big company, Watson can provide not just software but also IBM consultants helping a retailer, for example, use the technology to customize marketing and improve customer service.
+
+The artificial intelligence marketplace, analysts agree, is primed to grow rapidly. A.I. is also the new arena of high-stakes competition in computing, fueled by big data and innovations in software algorithms.
+
+The market — defined as A.I.-related hardware, software and services — will surge from $8 
+
+Today, the A.I. business, experts say, resembles the internet in the mid-1990s: a thing on its own that eventually will be built into all kinds of products and services. “That’s where we’re headed — A.I. everywhere,” said Frank Gens, IDC’s chief analyst.
+
+All the major technology companies are investing aggressively in A.I. software, including companies beyond IBM like Salesforce, SAP and Oracle that focus on business customers.
+
+But consumer internet companies with large cloud computing businesses, analysts say, are most likely to build the equivalent of operating systems for A.I. — the so-called platforms on which most developers write applications. Amazon, Google and Microsoft are the front-runners.
+
+IBM may have a chance to join that group. By 2020, IDC predicts, 60 percent of the A.I. applications will run on the platform of four companies: Amazon, Google, Microsoft and IBM.
+
+IBM needs A.I.-fueled growth more than the others. When the company reports its third-quarter financial results on Monday, analysts expect the recent pattern to continue; its new businesses like Watson, data analytics and cloud computing are growing but not fast enough to outpace the erosion in its traditional hardware, software and services lines. Revenue has declined for 17 consecutive quarters.
+
+IBM does not report financial results for Watson separately. But the securities research arm of the Swiss bank UBS estimates that Watson may generate $500 million in revenue this year and could grow rapidly in the years ahead, possibly hitting nearly $6 billion by 2020 and almost $17 billion by 2022.
+
+IBM has acquired industry expertise and proprietary data sources, in addition to supplying A.I. platform tools and technology. “IBM has taken a very different approach from Google, Amazon and Microsoft,” said Judith Hurwitz, an independent analyst. “It’s leveraging data and the knowledge of experts.”
+
+IBM first focused on health care, and that business now accounts for two-thirds of the Watson unit’s employment. Three years ago, IBM experts began working with leading medical centers. And it has spent more than $4 billion buying a handful of companies with vast stores of medical data like billing records, patient histories, and X-ray and M.R.I. images. “A.I. machines are only as smart as the data you give them,” Mr. Kelly noted.
+
+Watson’s core strength, dating back to the “Jeopardy!” competition, is its ability to read and interpret words, known as natural-language processing. Once trained, Watson can digest thousands of documents in minutes.
+
+At the University of North Carolina School of Medicine, Watson was tested on 1,000 cancer diagnoses made by human experts. In 99 percent of them, Watson recommended the same treatment as the oncologists.
+
+In 30 percent of the cases, Watson also found a treatment option the human doctors missed. Some treatments were based on research papers that the doctors had not read — more than 160,000 cancer research papers are published a year. Other treatment options might have surfaced in a new clinical trial the oncologists had not yet seen announced on the web.
+
+But Watson read it all. “Humans enabled by A.I. is the way to go with genomics,” said Dr. Norman E. Sharpless, head of the school’s cancer center.

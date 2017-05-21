@@ -1,6 +1,7 @@
 # The highest level code that brings everything together.
 
 import extractor
+import filter
 import scoring
 from sys import argv
 
@@ -25,6 +26,7 @@ def summarize(filename, num_of_sentences):
     all_words = extractor.get_words(file)
     word_scores = scoring.get_word_scores(all_words)
     all_sentences = extractor.get_sentences(file)
+    all_sentences = filter.omit_transition_sentences(all_sentences)
     sentence_scores = scoring.get_sentence_scores_list(all_sentences, word_scores)
 
     if num_of_sentences > len(all_sentences):

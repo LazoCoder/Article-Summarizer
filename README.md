@@ -9,10 +9,31 @@ The following are all summaries of articles. If any of the links are dead, the c
 **Generated Summary:** Interviews with people familiar with Apple's inner workings reveal that the Mac is getting far less attention than it once did. People now have more options. There is now just one team, and most of the engineers are iOS first, giving the people working on the iPhone and iPad more power. In recent years, Apple managers have also become more likely to float two or more competing ideas, meaning designers and engineers must work on more than one concept at a time.
 
 ### Article: [Inside the Eye](http://ngm.nationalgeographic.com/2016/02/evolution-of-eyes-text)
-**Generated Summary:** There are eyes with bifocal lenses, eyes with mirrors, and eyes that look up, down, and sideways all at the same time. Cup-shaped eyes with more receptors or compound eyes with additional cups can produce crude images of objects. This explains why animals don’t have eyes that are better than they need and why they lose eyes so readily if they no longer need them. Ultimately, to understand why they are the way they are, we need to know how they are used.
+**Generated Summary:** The box jellyfish’s eyes are part of an almost endless variation of eyes in the animal kingdom. There are eyes with bifocal lenses, eyes with mirrors, and eyes that look up, down, and sideways all at the same time. Cup-shaped eyes with more receptors or compound eyes with additional cups can produce crude images of objects. There are thousands of different opsins, but they are all related.
 
 ### Article: [Solar Now Produces a Better Energy Return on Investment Than Oil](https://robertscribbler.com/2016/12/19/solar-now-produces-a-better-energy-return-on-investment-than-oil/)
-**Generated Summary:** In 2016, according to a trends analysis based on this report by the Royal Society of London, the energy return on energy investment (EROEI) for oil appears to have fallen below a ratio of 15 to 1 globally. Meanwhile, according to a new study by the Imperial College of London, solar energy’s return on investment ratio as of 2015 was 14 to 1 and rising. The higher energy returns for solar come as module efficiency, supply chain efficiency, and production and installation efficiency are all on the rise. Higher energy return on investment ratios for solar is one of the primary drivers enabling such low overall power prices.
+**Generated Summary:** In 2016, according to a trends analysis based on this report by the Royal Society of London, the energy return on energy investment (EROEI) for oil appears to have fallen below a ratio of 15 to 1 globally. The higher energy returns for solar come as module efficiency, supply chain efficiency, and production and installation efficiency are all on the rise. Higher energy return on investment ratios for solar is one of the primary drivers enabling such low overall power prices.
+
+### Article: [It’s Surprisingly Cheap And Easy To Commit Academic Fraud](http://www.vocativ.com/322170/its-surprisingly-cheap-and-easy-to-commit-academic-fraud/)
+**Generated Summary:** Search Google for something simple, like "buy term paper" or "buy academic paper online," and you end up with dozens of paper writing factories to choose from. The paper writer assigned to me would be an anonymous wordsmith. "Our clients are mostly undergraduate students. Graduate students (such as the online MBA students discussed above) are the second most common. PhD students are uncommon," he says.
+
+### Article: [China is now the world’s largest solar power producer](https://www.digitaltrends.com/cool-tech/china-solar-energy/)
+**Generated Summary:** The NEA says that China will seek to add more than 110 gigawatts within the next three years, which could help the nation up the proportion of its renewable energy use to 20 percent by 2030. China’s geography certainly lends itself to large solar energy farms. Weaning itself off of fossil fuels will require quite a hefty investment; one that China appears ready to make.
+
+### Article: [Google reduces JPEG file size by 35%](https://arstechnica.com/information-technology/2017/03/google-jpeg-guetzli-encoder-file-size/)
+**Generated Summary:** Google has developed and open-sourced a new JPEG algorithm that reduces file size by about 35 percent—or alternatively, image quality can be significantly improved while keeping file size constant.
+
+### Article: [IBM Is Counting on Its Bet on Watson, and Paying Big Money for It](https://www.nytimes.com/2016/10/17/technology/ibm-is-counting-on-its-bet-on-watson-and-paying-big-money-for-it.html?_r=0)
+**Generated Summary:** All the major technology companies are investing aggressively in AI software, including companies beyond IBM like Salesforce, SAP and Oracle that focus on business customers. Amazon, Google and Microsoft are the front-runners. "AI machines are only as smart as the data you give them," Mr. Kelly noted.
+
+### Article: [Google didn’t lead the self-driving vehicle revolution. John Deere did.](https://www.washingtonpost.com/news/the-switch/wp/2015/06/22/google-didnt-lead-the-self-driving-vehicle-revolution-john-deere-did/?utm_term=.ea214776589a)
+**Generated Summary:** The self-driving technology being sold by John Deere and some of its competitors are less technically complex than the fully driverless cars that big tech companies and car manufacturers are working on. There are no federal rules specifically addressing self-driving tech for tractors, largely because farm equipment is designed for use in fields where it doesn't pose the same level of risk to other vehicles or people as a self-driving vehicle on a public road. The systems are pricey: Outfitting a new tractor with top-of-the-line auto-steering, navigation and guidance tech could cost upwards of $20,000, Reed said.
+
+### Article: [The real genius of Steve Jobs](http://www.newyorker.com/magazine/2011/11/14/the-tweaker)
+**Generated Summary:** The great accomplishment of Jobs’s life is how effectively he put his idiosyncrasies—his petulance, his narcissism, and his rudeness—in the service of perfection. In his mind, what he did was special.
+
+### Article: [Two Infants Treated with Universal Immune Cells Have Their Cancer Vanish](https://www.technologyreview.com/s/603502/two-infants-treated-with-universal-immune-cells-have-their-cancer-vanish/)
+**Generated Summary:** Doctors in London say they have cured two babies of leukemia in the world’s first attempt to treat cancer with genetically engineered immune cells from a donor. "The patient could be treated immediately, as opposed to taking cells from a patient and manufacturing them," says Julianne Smith, vice president of CAR-T development for Cellectis, which specializes in supplying universal cells. "What they can do in the future is what we can do today," Nelsen said in an interview last year.
 
 ## Usage
 ```
@@ -35,6 +56,7 @@ The following are all summaries of articles. If any of the links are dead, the c
  3. Split the text into sentences by dividing it in the locations where there are periods.
  4. Make sure no sentence has been incorrectly split in two due to abbreviations such as “Dr.”, “Mr.”, etc….
  5. Perform some more clean up such as whitespace removal and grouping words within quotes together.
+ 6. Remove transition sentences by scanning for keywords.
 2. Extract all the words from the text.
  1. Split the text into words by dividing it in the locations where there is whitespace (“ “).
  2. Trim words that have punctuation around it (“cat!” should be changed to “cat”).
