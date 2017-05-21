@@ -49,26 +49,26 @@ The following are all summaries of articles. If any of the links are dead, the c
 
 ## The Algorithm
 1. Extract all the sentences from the text.
- 1. Remove all the newlines (“\n”) from the text.
- 2. Remove periods from all multi-period abbreviations.
-    - Example: change “Y.M.C.A.” to “YMCA” but leave single-period abbreviations like “Dr.” and “Mr.” alone.
-    - This reduces ambiguities and code complexity when it must be known if a period marks the end of a sentence.
- 3. Split the text into sentences by dividing it in the locations where there are periods.
- 4. Make sure no sentence has been incorrectly split in two due to abbreviations such as “Dr.”, “Mr.”, etc….
- 5. Perform some more clean up such as whitespace removal and grouping words within quotes together.
- 6. Remove transition sentences by scanning for keywords.
+    1. Remove all the newlines (“\n”) from the text.
+    2. Remove periods from all multi-period abbreviations.
+       - Example: change “Y.M.C.A.” to “YMCA” but leave single-period abbreviations like “Dr.” and “Mr.” alone.
+       - This reduces ambiguities and code complexity when it must be known if a period marks the end of a sentence.
+    3. Split the text into sentences by dividing it in the locations where there are periods.
+    4. Make sure no sentence has been incorrectly split in two due to abbreviations such as “Dr.”, “Mr.”, etc….
+    5. Perform some more clean up such as whitespace removal and grouping words within quotes together.
+    6. Remove transition sentences by scanning for keywords.
 2. Extract all the words from the text.
- 1. Split the text into words by dividing it in the locations where there is whitespace (“ “).
- 2. Trim words that have punctuation around it (“cat!” should be changed to “cat”).
- 3. Group words that are technically the same (such as “berries” and “berry”).
- 4. For each word, remove ownership (“schools’” and “school’s” should be changed to “school”).
- 5. Convert plural words to singular.
+    1. Split the text into words by dividing it in the locations where there is whitespace (“ “).
+    2. Trim words that have punctuation around it (“cat!” should be changed to “cat”).
+    3. Group words that are technically the same (such as “berries” and “berry”).
+    4. For each word, remove ownership (“schools’” and “school’s” should be changed to “school”).
+    5. Convert plural words to singular.
 3. Assign a score to each word.
- 1. Word scores are based on their frequency in the text.
- 2. Ignore common words such as “the”, “to”, “and”, etc….
+    1. Word scores are based on their frequency in the text.
+    2. Ignore common words such as “the”, “to”, “and”, etc….
 4. Assign a score to each sentence.
- 1. The sentence score is the sum of all the scores of its words divided by the number of words.
- 2. Sentences with high information density will have high scores.
+    1. The sentence score is the sum of all the scores of its words divided by the number of words.
+    2. Sentences with high information density will have high scores.
 5. Put the sentences with the highest scores together in chronological order to produce the summary.
 
 # Tools
@@ -170,3 +170,6 @@ This module was used to create the abbreviation lists that are referenced in the
         --create_abbr_multi     create abbreviations_multi.txt from words.txt
 
 ```
+
+# Disclaimer
+This software was written for educational purposes and as a means for me to learn Python. Not all the summaries that are produced are as perfect as the samples shown above. Sometimes the summaries come out awkward and certain special characters can throw the algorithm off. Furthermore, titles and ads should be removed from an article before attempting to summarize it since the software does not automatically do that for you. For more accurate summary generation consider using [NLTK](http://www.nltk.org/).
