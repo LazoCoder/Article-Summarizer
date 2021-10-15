@@ -1,6 +1,6 @@
 # Tool to count and score sentences and words.
 
-import parser
+import ASparser
 import extractor
 from sys import argv
 
@@ -32,7 +32,7 @@ def score(sentence, word_scores):
             continue
         if sentence.count(word) == 1:
             denominator += 1.0
-        word = parser.clean(word)
+        word = ASparser.clean(word)
         score += word_scores.get(word)
     return score/denominator
 
