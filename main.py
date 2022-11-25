@@ -4,6 +4,9 @@ import extractor
 import filter
 import scoring
 from sys import argv
+import pyperclip
+
+TEMP_FILE = 'temp.txt'
 
 
 def print_usage():
@@ -40,14 +43,20 @@ def summarize(filename, num_of_sentences):
     # Put the top sentences into one string.
     summary = ""
     for sentence in top_sentences:
-        summary += sentence + " "
+        summary += sentence + "\n\n"
     summary = summary[:-1]
     print(summary)
 
 
 if __name__ == '__main__':
-    if len(argv) != 3:
-        print_usage()
+    if len(argv) < 3:
+        with open(TEMP_FILE, 'w') as file:
+            text = pyperclip.paste()
+            file.write(text)
+        default_sentences_len = 20
+        if len(argv) >= 2 and str(argv[1]).isdigit():
+            default_sentences_len = int(str(argv[1]))
+        summarize(TEMP_FILE, default_sentences_len)
     elif not str(argv[2]).isdigit():
         print_usage()
     else:

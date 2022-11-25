@@ -1,7 +1,19 @@
 # Tool to extract sentences & words from a file.
 
 from sys import argv
+from typing import List
+
 import parser
+
+
+def convert_text_into_paragraphs(text):
+    lines = []
+    paragraphs: List[str] = text.split('\n')
+    for paragraph in paragraphs:
+        if paragraph and len(paragraphs) > 0 and not paragraph[-1].isalnum():
+            paragraph += '.'
+        lines.append(paragraph)
+    return '\n'.join(lines)
 
 
 def get_sentences(file_name):
@@ -9,6 +21,7 @@ def get_sentences(file_name):
     reader = open(file_name)
     sentences = reader.read()
     reader.close()
+    sentences = convert_text_into_paragraphs(sentences)
     sentences = sentences.replace("\n", "")
     sentences = parser.convert_abbreviations(sentences)
     sentences = sentences.replace("?", ".")
@@ -30,6 +43,7 @@ def get_words(file_name):
     reader = open(file_name)
     words = reader.read()
     reader.close()
+    words = convert_text_into_paragraphs(words)
     words = words.replace("\n", " ")
     words = parser.convert_abbreviations(words)
     words = words.split(" ")
