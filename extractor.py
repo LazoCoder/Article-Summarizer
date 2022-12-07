@@ -1,41 +1,41 @@
 # Tool to extract sentences & words from a file.
 
 from sys import argv
-import parser
+import ASparser
 
 
 def get_sentences(file_name):
     # Extract sentences from a text file.
-    reader = open(file_name)
+    reader = open(file_name, "r",encoding='utf-8')
     sentences = reader.read()
     reader.close()
     sentences = sentences.replace("\n", "")
-    sentences = parser.convert_abbreviations(sentences)
+    sentences = ASparser.convert_abbreviations(sentences)
     sentences = sentences.replace("?", ".")
     sentences = sentences.replace("!", ".")
     sentences = sentences.split(".")
-    sentences = parser.fix_broken_sentences(sentences)
-    sentences = parser.remove_whitespace_list(sentences)
-    sentences = parser.remove_blanks(sentences)
-    sentences = parser.add_periods(sentences)
-    sentences = parser.clean_up_quotes(sentences)
-    sentences = parser.group_quotes(sentences)
-    sentences = parser.comma_handler(sentences)
+    sentences = ASparser.fix_broken_sentences(sentences)
+    sentences = ASparser.remove_whitespace_list(sentences)
+    sentences = ASparser.remove_blanks(sentences)
+    sentences = ASparser.add_periods(sentences)
+    sentences = ASparser.clean_up_quotes(sentences)
+    sentences = ASparser.group_quotes(sentences)
+    sentences = ASparser.comma_handler(sentences)
     return sentences
 
 
 def get_words(file_name):
     # Extract words from a text file. Clean the words by removing surrounding
     # punctuation and whitespace, and convert the word to singular.
-    reader = open(file_name)
+    reader = open(file_name, "r",encoding='utf-8')
     words = reader.read()
     reader.close()
     words = words.replace("\n", " ")
-    words = parser.convert_abbreviations(words)
+    words = ASparser.convert_abbreviations(words)
     words = words.split(" ")
-    words = parser.remove_blanks(words)
+    words = ASparser.remove_blanks(words)
     for i in range(0, len(words)):
-        words[i] = parser.clean(words[i])
+        words[i] = ASparser.clean(words[i])
     return words
 
 
